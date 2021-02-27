@@ -1,4 +1,4 @@
-// hw Java OOP - BIL-202
+package bil_202_OOP;// hw Java OOP - BIL-202
 
 class Footballer {
     String name;
